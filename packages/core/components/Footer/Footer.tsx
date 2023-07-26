@@ -15,10 +15,7 @@ export function Footer() {
         </Link>{' '}
         All rights reserved.
       </span>
-      <span>
-      작은성장의 의미를 아는 미래는 과연 어떨까
-        </Link>
-      </span>
+ 
     </StyledFooter>
   );
 }

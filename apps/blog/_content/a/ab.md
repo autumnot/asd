@@ -1,5 +1,5 @@
 ---
-title: '학습에 필요한 서적과 진행도'
+title: '기본베이스에 대한 진행'
 subtitle: ''
 date: 2023-07-22 13:00:00
 category: 'a'

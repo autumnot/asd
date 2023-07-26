@@ -16,9 +16,7 @@ export function Footer() {
         All rights reserved.
       </span>
       <span>
-        Powered By{' '}
-        <Link href="https://github.com/hyesungoh/comet-land" target="_blank">
-          @Comet-land
+      작은성장의 의미를 아는 미래는 과연 어떨까
         </Link>
       </span>
     </StyledFooter>

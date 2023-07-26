@@ -33,7 +33,7 @@ export default class BlogDocument extends Document {
           <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
           <meta
             name="keywords"
-            content="blog,development,developer,frontend,hyesungoh,블로그,개발,개발자,프론트엔드,오혜성"
+            content="blog,development,developer,frontend,acca9,블로그,개발,개발자,프론트엔드,lament99"
           />
           <meta name="twitter:creator" content={authorName} />
 

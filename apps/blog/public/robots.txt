@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://www.hyesungoh.xyz/sitemap.xml
+Sitemap: https://acca9.xyz/sitemap.xml

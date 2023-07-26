@@ -1,7 +1,7 @@
 
 export const authorName = 'lament99';
 
-export const defaultUrl = 'https://www.acca9.xyz';
+export const defaultUrl = 'https://acca9.xyz';
 
 export * as favicon from './favicon.ico';
 

@@ -1,0 +1,36 @@
+import styled from '@emotion/styled';
+import { useTheme } from '@nextui-org/react';
+
+import { IExperience } from '../../../_content/Other-Experience';
+import Li from '../Li';
+import TitleTooltip from '../TitleTooltip';
+
+function Experience({ title, position, startDate, endDate, description, which }: IExperience) {
+  const { theme } = useTheme();
+
+  return (
+    <Div>
+      <TitleTooltip {...title} />
+      <small>
+        {startDate} ~ {endDate}
+      </small>
+      <span>{position}</span>
+      <p>{description}</p>
+      {which.length > 0 && (
+        <ul>
+          {which.map((each, index) => (
+            <Li key={index} theme={theme} dangerouslySetInnerHTML={{ __html: each }} />
+          ))}
+        </ul>
+      )}
+    </Div>
+  );
+}
+
+export default Experience;
+
+const Div = styled.div`
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2rem;
+`;

@@ -1,0 +1,171 @@
+{
+  "title": "그 외 경험",
+  "list": [
+    {
+      "title": {
+        "text": "kbar",
+        "githubLink": "https://github.com/timc1/kbar",
+        "otherLink": null
+      },
+      "position": "Contributor",
+      "startDate": "2023.4",
+      "endDate": "2023.4",
+      "description": "에러 메시지를 수정하여 기여하였습니다.",
+      "which": [
+        "PR 링크: <a href='https://github.com/timc1/kbar/pull/298' target='_blank' rel='noreferrer'>https://github.com/timc1/kbar/pull/298</a>"
+      ]
+    },
+    {
+      "title": {
+        "text": "toss/slash",
+        "githubLink": "https://github.com/toss/slash",
+        "otherLink": null
+      },
+      "position": "Contributor",
+      "startDate": "2022.10",
+      "endDate": "2022.10",
+      "description": "@toss/sentry 문서를 수정하여 기여하였습니다.",
+      "which": [
+        "PR 링크: <a href='https://github.com/toss/slash/pull/70' target='_blank' rel='noreferrer'>https://github.com/toss/slash/pull/70</a>"
+      ]
+    },
+    {
+      "title": {
+        "text": "Software Maestro Expert",
+        "githubLink": null,
+        "otherLink": null
+      },
+      "position": "13기, 14기 Expert",
+      "startDate": "2022.06",
+      "endDate": "",
+      "description": "연수생이 보다 개발에 몰입할 수 있도록 조언과 도움을 주는 활동에 참여하였습니다.",
+      "which": [
+        "2개의 팀에 참여해 출시까지의 과정을 도왔습니다."
+      ]
+    },
+    {
+      "title": {
+        "text": "Faker",
+        "githubLink": "https://github.com/faker-js/faker",
+        "otherLink": null
+      },
+      "position": "Contributor",
+      "startDate": "2022.02",
+      "endDate": "2022.02",
+      "description": "더미 데이터를 제공하는 오픈소스 프로젝트에 기여하였습니다.",
+      "which": [
+        "한국어 정보를 추가, 잘못된 정보를 수정하였습니다.",
+        "PR 링크: <a href='https://github.com/faker-js/faker/pull/573' target='_blank' rel='noreferrer'>https://github.com/faker-js/faker/pull/573</a>"
+      ]
+    },
+    {
+      "title": {
+        "text": "React-router",
+        "githubLink": "https://github.com/remix-run/react-router",
+        "otherLink": null
+      },
+      "position": "Contributor",
+      "startDate": "2022.02",
+      "endDate": "2022.02",
+      "description": "Github Readme의 잘못된 Link를 수정하여 기여하였습니다.",
+      "which": [
+        "PR 링크: <a href='https://github.com/remix-run/react-router/pull/8666' target='_blank' rel='noreferrer'>https://github.com/remix-run/react-router/pull/8666</a>"
+      ]
+    },
+    {
+      "title": {
+        "text": "React-player",
+        "githubLink": "https://github.com/cookpete/react-player",
+        "otherLink": null
+      },
+      "position": "Contributor",
+      "startDate": "2021.10",
+      "endDate": "2021.10",
+      "description": "동영상 플레이어를 제공하는 오픈소스 프로젝트에 기여하였습니다.",
+      "which": [
+        "동영상 재생 중에 호출되는 callback인 onProgress의 Props에 대한 interface를 정의하였습니다.",
+        "WAVY 프로젝트에서 직접 사용하며 필요성을 느껴 기여하게 되었습니다.",
+        "PR 링크: <a href='https://github.com/cookpete/react-player/pull/1342' target='_blank' rel='noreferrer'>https://github.com/cookpete/react-player/pull/1342</a>"
+      ]
+    },
+    {
+      "title": {
+        "text": "Gatsby-starter-bee",
+        "githubLink": "https://github.com/JaeYeopHan/gatsby-starter-bee",
+        "otherLink": null
+      },
+      "position": "Contributor",
+      "startDate": "2021.04",
+      "endDate": "2021.04",
+      "description": "블로그 테마 오픈소스 프로젝트에 기여하였습니다.",
+      "which": [
+        "SEO를 위해 robots.txt 플러그인을 적용하였습니다.<br/>PR 링크: <a href='https://github.com/JaeYeopHan/gatsby-starter-bee/pull/247' target='_blank' rel='noreferrer'>https://github.com/JaeYeopHan/gatsby-starter-bee/pull/247</a>",
+        "Social media section에 Instagram을 추가하였습니다.<br/>PR 링크: <a href='https://github.com/JaeYeopHan/gatsby-starter-bee/pull/246' target='_blank' rel='noreferrer'>https://github.com/JaeYeopHan/gatsby-starter-bee/pull/246</a>"
+      ]
+    },
+    {
+      "title": {
+        "text": "학과 TA",
+        "githubLink": null,
+        "otherLink": null
+      },
+      "position": null,
+      "startDate": "2021.3",
+      "endDate": "2023.6",
+      "description": "21년도 1학기와 23년도 1학기에 학과 TA를 맡았습니다.",
+      "which": [
+        "<a href='https://github.com/hyesungoh/BOJ_grading_automation' target='_blank' rel='noreferrer'/>백준 온라인 저지 채점을 자동화하는 스크립트를 개발</a>해 업무를 자동화하였고 후배 TA도 사용할 수 있도록 인계하였습니다."
+      ]
+    },
+    {
+      "title": {
+        "text": "엘리스 아카데미 외주",
+        "githubLink": null,
+        "otherLink": "https://academy.elice.io/courses/18841/info"
+      },
+      "position": "선생님",
+      "startDate": "2020.08",
+      "endDate": "2020.09",
+      "description": "'모두의 딥러닝' 서적을 엘리스 아카데미 플랫폼에 포팅하였습니다.",
+      "which": []
+    },
+    {
+      "title": {
+        "text": "군 전역",
+        "githubLink": null,
+        "otherLink": null
+      },
+      "position": "병장 만기 전역",
+      "startDate": "2018.11",
+      "endDate": "2020.07",
+      "description": "육군 9사단에서 전역하였습니다.",
+      "which": []
+    },
+    {
+      "title": {
+        "text": "청년창업 CEO 양성과정",
+        "githubLink": null,
+        "otherLink": null
+      },
+      "position": "우수상",
+      "startDate": "2016.06",
+      "endDate": "2016.08",
+      "description": "고용노동부와 전라북도에서 지원하는 청년창업 과정에서 우수상을 수상하였습니다.",
+      "which": [
+        "치매 예방 기능성 게임을 개발하여 창업하였습니다."
+      ]
+    },
+    {
+      "title": {
+        "text": "전국 Junior 창업 경진 대회",
+        "githubLink": null,
+        "otherLink": null
+      },
+      "position": "우수상",
+      "startDate": "2016.07",
+      "endDate": "2016.08",
+      "description": "한밭대학교 주최의 경진 대회에서 우수상을 수상하였습니다.",
+      "which": []
+    }
+  ]
+}

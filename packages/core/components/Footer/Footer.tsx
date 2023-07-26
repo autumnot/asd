@@ -14,8 +14,12 @@ export function Footer() {
           {authorName}
         </Link>{' '}
         All rights reserved.
+        <br />
+        작은성장의 의미를 아는 미래가 얼마나 부러운지
+        <br />
       </span>
- 
+
+      
     </StyledFooter>
   );
 }

@@ -17,7 +17,7 @@ export function Footer() {
         <br />
         작은성장의 의미를 아는 미래가 얼마나 부러운지
         <br />
-        little birds can remember :)
+        little birds can remember
         <br />
       </span>
 

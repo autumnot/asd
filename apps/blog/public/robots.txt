@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://acca9.xyz/sitemap.xml
+Sitemap: https://www.acca9.xyz/sitemap.xml

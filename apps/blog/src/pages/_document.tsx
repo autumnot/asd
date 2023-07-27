@@ -25,7 +25,7 @@ export default class BlogDocument extends Document {
           {/* for NextUI */}
           {CssBaseline.flush()}
 
-          <link rel="icon" href="https://raw.githubusercontent.com/autumnot/asd/main/packages/core/constants/General/favicon.ico" />
+          <link rel="icon" href={favicon.default.src} />
           <meta httpEquiv="Content-type" content="text/html; charset=utf-8" />
           <meta httpEquiv="x-ua-compatible" content="ie=edge" />
           <meta property="og:type" content="blog" />

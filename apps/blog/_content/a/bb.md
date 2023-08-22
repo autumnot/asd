@@ -8,7 +8,7 @@ category: 'a'
 
 ![image](https://github.com/autumnot/asd/assets/93163630/12d7a678-3ec3-48b4-a8e2-3b3fde911f35)
 
-> 9600권 <br/>
+> 하루2권 1년당 730권 9600권(13년) <br/>
 > 전공서적 포함 <br/>
 > 자기계발서는 일정수준에 도달했다고 생각되면 텀을 둔다
 

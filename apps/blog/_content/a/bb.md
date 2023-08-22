@@ -9,6 +9,7 @@ category: 'a'
 ![image](https://github.com/autumnot/asd/assets/93163630/12d7a678-3ec3-48b4-a8e2-3b3fde911f35)
 
 > 9600권
+> 전공서적 포함
 
 
 1.밥 프록터 부의 원리 / 밥 프록터

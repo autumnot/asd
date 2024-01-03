@@ -1,2 +1,3 @@
 User-agent: *
+Allow:/
 Sitemap: https://www.acca9.xyz/sitemap.xml

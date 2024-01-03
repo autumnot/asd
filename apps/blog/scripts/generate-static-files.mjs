@@ -148,7 +148,7 @@ function generateRobots() {
   writeFileSync(
     'public/robots.txt',
     `User-agent: *
-Allow:/
+Allow: /
 Sitemap: ${blogUrl}/sitemap.xml`
   );
 }
